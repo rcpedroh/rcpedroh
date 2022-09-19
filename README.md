@@ -12,7 +12,7 @@
 ### Do you want to talk with me? Send a message to my email: phrodrigues889@gmail.com 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:phrodrigues889@gmail.com?)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rodrigues_pedro/)
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pedro-henrique-rodrigues-de-carvalho-665554223)
 
 
 ![snake gif](https://github.com/rcpedroh/rcpedroh/blob/output/github-contribution-grid-snake.svg)
