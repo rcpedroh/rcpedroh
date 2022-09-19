@@ -9,7 +9,7 @@
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rcpedroh)
 
-### Do you want to talk with me? Send a message to my email: phrodrigues889@gmail.com 
+### Do you want to talk with me? Send a message to one of my social networks:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:phrodrigues889@gmail.com?)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rodrigues_pedro/)
 [<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pedro-henrique-rodrigues-de-carvalho-665554223)
