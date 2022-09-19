@@ -6,6 +6,9 @@
 ## My GitHub status: :computer:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcpedroh&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rcpedroh&show_icons=true&theme=tokyonight)
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rcpedroh)
+
 ### Do you want to talk with me? Send a message to my email: phrodrigues889@gmail.com 
 
 
